@@ -1,0 +1,144 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    background-color:#303e47;
+}
+span{
+    text-decoration: underline;
+    font-weight: bold;
+}
+.header{
+    justify-content:center;
+    align-items: center;
+    padding-top: 5vh;
+}
+.headericon .fa-border{
+    background-color: #00b2e2;
+    margin-right:7px;
+    padding: 8px 8px;
+    border-radius: 45px;
+    border: 3px solid white;
+}
+.header h1{
+    font-weight:900;
+    letter-spacing:4px;
+    color: #f45c63;
+}
+.header h6{
+    font-size:smaller;
+    color: white;
+    font-weight:700;
+    margin-top: -2vh;
+}
+.container .container{
+    padding: 0vh 15vw;
+}
+.container .container .row{
+    margin-top:5vh;
+}
+.box-1 .first-col-con{
+    text-align: center;
+    background-color: #ff9d1b;
+    padding: 5vh 5vw;
+}
+.box-1 .sec-col-con{
+    text-align: center;
+    background-color: #00b2e2;
+    padding: 5vh 5vw;
+}
+.custom-color{
+    color: #f45c63;
+}
+
+.box-2{
+    background-color:#f45c63;
+}
+.box-2 .d-flex{
+    justify-content:space-between;
+    align-items:end;
+}
+.box-2 .col-12 .col-md-6 h3{
+    color: white;
+    font-weight: 800;
+    letter-spacing: 1px;
+}
+.box-2 .col-12{
+    padding:2vh 4vw;
+    p{
+    color: white;
+    }
+}
+
+.box-3{
+    background-color: #00b2e2;
+    .col-md-6{
+        padding: 2vh 3vw;
+        color: white;
+    }
+    h1{
+        padding: 2vh 3vw;
+        b{
+            color: white;
+        }
+    }
+}
+.box-4{
+    .col1{
+        background-color: #f45c63;
+        text-align: center;
+        color: white;
+        padding: 4vh 3vw;
+    }
+    .col2{
+        background-color: #ff9d1b;
+        text-align: center;
+        color: white;
+        padding: 7vh 3vw;
+    }
+}
+.box-5{
+    background-color: #00b2e2;
+    padding: 4vh 3vw;
+}
+.box-5 .col-md-9 {
+    color: white;
+    h1{
+    font-weight: 900;
+    }
+}
+.box-5 .col-md-3{
+    padding-top: 6vh;
+}
+
+.box-6{
+    background-color: #ff9d1b;
+    padding: 4vh 3vw;
+    .col-md-9{
+        color: white;
+        h1{
+            font-weight: 900;
+        }
+    }
+    .col-md-3{
+        padding-top: 7vh;
+    }
+}
+.box-7{
+    .col1{
+      background-color: #00b2e2;
+      text-align: center;
+      padding: 10vh 1vw;
+      h1,p{
+        font-weight: 900;
+        color: white;
+      }
+    }
+}
+.box-7 .col2{
+    background-color: #f45c63;
+    text-align: center;
+    color: white;
+    padding:5vh 1vw;
+}
