@@ -2,7 +2,7 @@
 
 # BANNER
 
- `Front-end Deployed URL` ->
+ `Front-end Deployed URL` -> https://banner-html.netlify.app/
 
   + Technologies used
     - HTML
